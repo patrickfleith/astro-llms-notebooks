@@ -1,5 +1,5 @@
 # Notebooks of LLMs used in Astronautics
-A collection of notebooks showcasing the usage of LLMs for Space Engineering, space operations and astronautics at large.
+A collection of notebooks showcasing the usage of Large Language Models in the domain of Space, Space Engineering, Space Mission Design, Space operations and Astronautics at large.
 
 ## 1. Evaluations of LLMs
 
